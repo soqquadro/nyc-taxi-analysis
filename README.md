@@ -1,1 +1,5 @@
-# nyc-taxi-analysis
+# New York City - Taxi Analysis
+Aspirations
+
+## Methodology
+Something
